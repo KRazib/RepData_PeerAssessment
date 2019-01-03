@@ -3,8 +3,8 @@ title: "RepData_PeerAssessment"
 author: "Razib"
 date: "January 3, 2019"
 output:
-  word_document: default
   html_document: default
+  word_document: default
 ---
 
 ## Activity monitoring devices: Peer Assessment 1
